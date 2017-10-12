@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+
+
+}
+
+
+ul {
+  padding: 0;
+  }
+
+h1 {
+  font-size: 2em;
+}
+
+nav.navigation {
+  background-color: black;
+  margin: 20px;
+  padding: 50px;
+  text-align: center;
+}
+
+li {
+  background-color: white;
+  display: inline-block;
+  margin: 15px;
+  padding: 15px,
+}
+
+a {
+  color: :tomato;
+  text-decoration: none;
+  font-weight: bolder;
+}
+section {
+  background-color: green;
+  text-align: center;
+  display: table;
+}
+
+div.box {
+  float: left;
+  width: 33.3%;
+}
+
+img {
+  width: 80%;
+  height: 200px;
+  object-fit: cover;
+  object-position: 50% 0%;
+}
